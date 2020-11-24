@@ -1,0 +1,305 @@
+Die Erde ist der dichteste, funftgro?te und der Sonne drittnachste Planet des Sonnensystems. Ihr Durchmesser betragt uber 12.700 Kilometer und ihr Alter etwa 4,6 Milliarden Jahre. Sie ist Heimat aller bekannten Lebewesen. Nach der vorherrschenden chemischen Beschaffenheit der Erde wird der Begriff der erdartigen (terrestrischen) oder auch erdahnlichen Planeten definiert. Das astronomische Symbol der Erde ist ? oder \oplus [3] (Radkreuz).
+
+Inhaltsverzeichnis  [Verbergen] 
+1 Umlaufbahn
+2 Rotation
+2.1 Prazession und Nutation
+2.2 Rotationsdauer und Gezeitenkrafte
+3 Aufbau
+3.1 Innerer Aufbau
+3.2 Oberflache
+3.3 Plattentektonik
+4 Magnetisches Feld
+5 Atmosphare
+6 Klima
+6.1 Klimazonen
+6.1.1 Polarzone
+6.1.2 Gema?igte Zone
+6.1.3 Subtropen
+6.1.4 Tropen
+6.2 Jahreszeiten
+6.3 Globaler Energiehaushalt
+6.4 Einfluss des Menschen
+7 Mond
+8 Leben
+9 Entstehung der Erde
+9.1 Entstehung des Erdkorpers
+9.2 Herkunft des Wassers
+10 Zukunft
+11 Siehe auch
+12 Literatur
+13 Weblinks
+14 Medien
+15 Einzelnachweise
+Umlaufbahn
+> Hauptartikel: Erdbahn
+Gema? dem ersten keplerschen Gesetz bewegt sich die Erde um die Sonne auf einer elliptischen Bahn, die Sonne befindet sich in einem der Brennpunkte der Ellipse. Der sonnenfernste Punkt der Umlaufbahn, das Aphel, und der sonnennachste Punkt, das Perihel, sind die beiden Endpunkte der Hauptachse der Ellipse. Der Mittelwert des Aphel- und Perihelabstandes ist die gro?e Halbachse der Ellipse und betragt etwa 149,6 Mio. km. Ursprunglich wurde dieser Abstand der Definition der Astronomischen Einheit (AE) zugrunde gelegt, die als astronomische Langeneinheit hauptsachlich fur Entfernungsangaben innerhalb des Sonnensystems verwendet wird.
+
+Das Perihel liegt bei 0,983 AE (147,1 Mio. km) und das Aphel bei 1,017 AE (152,1 Mio. km). Die Exzentrizitat der Ellipse betragt also 0,0167. Der Perihel-Durchgang erfolgt um den 3. Januar und der Aphel-Durchgang um den 5. Juli. Fur einen Sonnenumlauf benotigt die Erde 365 Tage, 6 Stunden, 9 Minuten und 9,54 Sekunden; diese Zeitspanne wird auch als siderisches Jahr bezeichnet. Das siderische Jahr ist 20 Minuten und 24 Sekunden langer als das tropische Jahr, das die Basis fur das burgerliche Jahr der Kalenderrechnung bildet. Die Bahngeschwindigkeit betragt im Mittel 29,78 km/s, im Perihel 30,29 km/s und im Aphel 29,29 km/s; somit legt der Planet eine Strecke von der Gro?e seines Durchmessers in gut sieben Minuten zuruck.
+
+Zur inneren Nachbarbahn der Venus hat die Erdbahn einen mittleren Abstand von 0,28 AE (41,44 Mio. km) und bis zur au?eren Nachbarbahn des Mars sind es im Mittel 0,52 AE (78,32 Mio. km). Auf der Erdbahn befinden sich mehrere koorbitale Objekte, siehe dazu unter Erdbahn.
+
+Der Umlaufsinn der Erde ist rechtlaufig, das hei?t, dass sie sich entsprechend der Regel der Drehrichtung im Sonnensystem vom Nordpol der Erdbahnebene aus gesehen dem Uhrzeigersinn entgegengesetzt um die Sonne bewegt.
+
+Die Bahnebene der Erde wird Ekliptik genannt. Die Ekliptik ist um gut 7° gegen die Aquatorebene der Sonne geneigt. Der Nordpol der Sonne ist der Erde am starksten gegen Anfang September zugewandt, der solare Sudpol wiederum gegen Anfang Marz. Nur um den 6. Juni und den 8. Dezember befindet sich die Erde kurz in der Ebene des Sonnenaquators.
+
+Rotation
+
+
+Siderischer Tag (1–2) und Sonnentag (1–3)
+> Hauptartikel: Erdrotation
+Die Erde rotiert rechtlaufig – in Richtung Osten – in 23 Stunden, 56 Minuten und 4,09 Sekunden relativ zu den Fixsternen ein Mal um ihre eigene Achse. Analog zum siderischen Jahr wird diese Zeitspanne als ein siderischer Tag bezeichnet. Aufgrund der Bahnbewegung der Erde entlang ihrer Umlaufbahn im gleichen Drehsinn und der daraus resultierenden leicht unterschiedlichen Position der Sonne an nacheinander folgenden Tagen ist ein Sonnentag, der als die Zeitspanne zwischen zwei Sonnenhochststanden (Mittag) definiert ist, etwas gro?er als ein siderischer Tag und wird nach Definition in 24 Stunden eingeteilt. Die Geschwindigkeit der Kreisbewegung des Erdaquators betragt 464 m/s, also 1670 km/h.
+
+Durch die Geschwindigkeit der Erdrotation und die dadurch bedingte Fliehkraft ist die Figur der Erde an den Polen geringfugig abgeplattet und dafur gegen ihren Aquator zu einem sogenannten Aquatorwulst verformt. Gegenuber einer volumengleichen Kugel ist der Erdradius am Aquator 7 Kilometer gro?er und der Polradius 14 Kilometer kleiner. Der Durchmesser am Aquator ist etwa 43 km gro?er als der von Pol zu Pol. Der Gipfel des Chimborazo ist wegen seiner Nahe zum Aquator der Punkt der Erdoberflache, der am weitesten vom Erdmittelpunkt entfernt ist.
+
+Die Rotationsachse der Erde ist 23°26' gegen die senkrechte Achse der Ekliptik geneigt, dadurch werden die Nord- und die Sudhalbkugel der Erde an verschiedenen Punkten ihrer Umlaufbahn um die Sonne unterschiedlich beschienen, was zu den das Klima der Erde pragenden Jahreszeiten fuhrt. Die Richtung der Achsneigung fallt fur die Nordhalbkugel derzeit in die ekliptikale Lange des Sternbilds Stier. In dieser Richtung steht, von der Erde aus gesehen, am 21. Juni auch die Sonne zur Sommersonnenwende. Da die Erde zwei Wochen spater ihr Aphel durchlauft, fallt der Sommer auf der Nordhalbkugel in die Zeit ihres sonnenfernen Bahnbereichs.
+
+Prazession und Nutation
+
+
+Prazessionsbewegung der Erdachse
+Datei:NASA Earth from Orbit 2012.webm 
+
+Zusammenstellung von Satellitenaufnahmen der Erde, die 2012 aufgenommen wurden. (in HD)
+Die Gezeitenkrafte des Mondes und der Sonne bewirken am Aquatorwulst der Erde ein Drehmoment, das die Erdachse aufzurichten versucht und zu einer Kreiselbewegung der Rotationsachse fuhrt. Ein vollstandiger Kegelumlauf dieser lunisolaren Prazession dauert etwa 25.700 bis 25.800 Jahre. Mit diesem Zyklus der Prazession verschieben sich die Jahreszeiten. Der Mond verursacht durch die Prazessionsbewegung seiner eigenen Umlaufbahn mit einer Periode von 18,6 Jahren eine zusatzliche „nickende“ Bewegung der Erdachse, die als Nutation bezeichnet wird. Der Einfluss des Mondes bewirkt zugleich eine Stabilisierung der Erdachsenneigung, die ohne ihn durch die Anziehungskraft der Planeten bis zu einer Schraglage von 85° taumeln wurde.[4] Fur Einzelheiten siehe den Abschnitt Mond.
+
+Rotationsdauer und Gezeitenkrafte
+Die Gravitation von Mond und Sonne verursacht auf der Erde die Gezeiten. Der Anteil der Sonne ist dabei etwa halb so gro? wie der des Mondes. Damit verbunden ist die Gezeitenreibung von Ebbe und Flut der Meere. Diese bremst die Erdrotation und verlangert dadurch gegenwartig die Tage um etwa 20 Mikrosekunden pro Jahr. Die Gezeiten wirken sich auch auf die Landmassen aus, die sich um etwa einen halben Meter heben und senken. Die Rotationsenergie der Erde wird dabei in Warme umgewandelt. Der Drehimpuls wird auf den Mond ubertragen, der sich dadurch um etwa vier Zentimeter pro Jahr von der Erde entfernt. Dieser schon lange vermutete Effekt ist seit etwa 1995 durch Laserdistanzmessungen abgesichert. Extrapoliert man diese Abbremsung in die Zukunft, wird auch die Erde einmal dem Mond immer dieselbe Seite zuwenden, wobei ein Tag auf der Erde dann etwa siebenundvierzig Mal so lang ware wie heute. Damit unterliegt die Erde demselben Effekt, der in der Vergangenheit schon zur gebundenen Rotation (Korotation) des Mondes gefuhrt hat.
+
+Fur Details siehe: Langfristige Anderungen der Erdrotation und Moderne Gezeitentheorie
+Abstandsverhaltnis der Erde zur Sonne und zu den unteren Planeten:
+
+
+
+Abstandverhaltnis Erde/Mond, Venus, Merkur, Sonne mit Bereichen der Umlaufbahnen. Entfernungen und Gro?e der Sonne sind hierbei ma?stabsgetreu, Planeten mussten unter 0,06 Pixel gro? sein.
+Aufbau
+Innerer Aufbau
+> Hauptartikel: Innerer Aufbau der Erde und Erdfigur
+Die massenanteilige Zusammensetzung der Erde besteht hauptsachlich aus Eisen (32,1 %), Sauerstoff (30,1 %), Silizium (15,1 %), Magnesium (13,9 %), Schwefel (2,9 %), Nickel (1,8 %), Calcium (1,5 %) und Aluminium (1,4 %). Die restlichen 1,2 % teilen sich Spuren von anderen Elementen.
+
+Nach seismischen Messungen ist die Erde hauptsachlich aus drei Schalen aufgebaut: aus dem Erdkern, dem Erdmantel und der Erdkruste. Diese Schalen sind durch seismische Diskontinuitatsflachen (Unstetigkeitsflachen) voneinander abgegrenzt. Die Erdkruste und der oberste Teil des oberen Mantels bilden zusammen die sogenannte Lithosphare. Sie ist zwischen 50 und 100 km dick und zergliedert sich in gro?e und kleinere tektonische Einheiten, die Platten.
+
+Ein dreidimensionales Modell der Erde wird, wie alle verkleinerten Nachbildungen von Weltkorpern, Globus genannt.
+
+
+Der Schalenaufbau der Erde
+ 
+
+Dreidimensionale Darstellung
+Oberflache
+Gesamtflache
+der Erde	510.000.000 km2	100 %
+Wasserflache	360.570.000 km2	70,7 %
+Landflache	149.430.000 km2	29,3 %
+Landwirtschaftlich
+genutzte Flache 2009[5]	48.827.330 km2	9,6 %
+Waldflache 2010[6]	40.204.320 km2	7,9 %
+
+
+Nordhalbkugel
+
+
+Sudhalbkugel
+> Hauptartikel: Erdoberflache
+Der Aquatorumfang ist durch die Zentrifugalkraft der Rotation mit 40.075,017 km um 67,154 km bzw. um 0,17 % gro?er als der Polumfang mit 40.007,863 km (bezogen auf das geodatische Referenzellipsoid von 1980). Der Poldurchmesser ist mit 12.713,504 km dementsprechend um 42,816 km bzw. um 0,34 % kleiner als der Aquatordurchmesser mit 12.756,320 km (bezogen auf das Referenzellipsoid; die tatsachlichen Zahlen weichen davon ab). Die Unterschiede im Umfang tragen mit dazu bei, dass es keinen eindeutig hochsten Berg auf der Erde gibt. Nach der Hohe uber dem Meeresspiegel ist es der Mount Everest im Himalaya und nach dem Abstand des Gipfels vom Erdmittelpunkt der auf dem Aquatorwulst stehende Vulkanberg Chimborazo in den Anden. Von der jeweils eigenen Basis an gemessen ist der Mauna Kea auf der vom pazifischen Meeresboden aufragenden gro?en vulkanischen Hawaii-Insel am hochsten.
+
+
+
+Landhalbkugel
+
+
+Wasserhalbkugel
+Wie die meisten festen Planeten und fast alle gro?eren Monde, zum Beispiel der Erdmond, weist auch die Erde eine deutliche Zweiteilung ihrer Oberflache in unterschiedlich ausgepragte Halbkugeln auf. Die Oberflache von ca. 510 Mio. km? unterteilt sich in eine Landhemisphare und eine Wasserhemisphare. Die Landhalbkugel ist die Hemisphare mit dem maximalen Anteil an Land. Er betragt mit 47 % knapp die Halfte der sichtbaren Flache. Die Flache der gegenuberliegenden Wasserhalbkugel enthalt nur 11 % Land und wird durch Ozeane dominiert.
+
+Damit ist die Erde der einzige Planet im Sonnensystem, auf dem flussiges Wasser auf der Oberflache existiert. In den Meeren sind 96,5 % des gesamten Wassers des Planeten enthalten. Das Meerwasser enthalt im Durchschnitt 3,5 % Salz.
+
+Die Wasserflache hat in der gegenwartigen geologischen Epoche einen Gesamtanteil von 70,7 %. Die von der Landflache umfassten 29,3 % entfallen hauptsachlich auf sieben Kontinente; der Gro?e nach: Asien, Afrika, Nordamerika, Sudamerika, Antarktika, Europa und Australien (Europa ist als gro?e westliche Halbinsel Asiens im Rahmen der Plattentektonik allerdings wahrscheinlich nie eine selbststandige Einheit gewesen). Die kategorische Grenzziehung zwischen Australien als kleinstem Erdteil und Gronland als gro?ter Insel wurde nur rein konventionell festgelegt. Die Flache des Weltmeeres wird im Allgemeinen in drei Ozeane einschlie?lich der Nebenmeere unterteilt: den Pazifik, den Atlantik und den Indik. Die tiefste Stelle, das Witjastief 1 im Marianengraben, liegt 11.034 m unter dem Meeresspiegel. Die durchschnittliche Meerestiefe betragt 3.800 m. Das ist etwa das Funffache der bei 800 m liegenden mittleren Hohe der Kontinente (s. hypsografische Kurve).
+
+Plattentektonik
+> Hauptartikel: Plattentektonik
+Die gro?ten Platten entsprechen in ihrer Anzahl und Ordnung etwa jener der von ihnen getragenen Kontinente, mit Ausnahme der pazifischen Platte. Alle diese Schollen bewegen sich gema? der Plattentektonik relativ zueinander auf den teils aufgeschmolzenen, zahflussigen Gesteinen des oberen Mantels, der 100 bis 150 km machtigen Asthenosphare.
+
+Magnetisches Feld
+> Hauptartikel: Erdmagnetfeld
+Das die Erde umgebende magnetische Feld wird von einem Geodynamo erzeugt. Das Feld ahnelt nahe der Erdoberflache einem magnetischen Dipol. Die magnetischen Feldlinien treten auf der Sudhalbkugel der Erde aus und durch die Nordhalbkugel wieder in die Erde ein. Im Erdmantel verandert sich die Form des Magnetfeldes. Au?erhalb der Erdatmosphare wird das Dipolfeld durch den Sonnenwind verformt.
+
+Die geomagnetischen Pole der Erde fallen nicht genau mit den geografischen Polen der Erde zusammen. Im Jahr 2007 war die Achse des geomagnetischen Dipolfeldes um etwa 11,5° gegenuber der Erdachse geneigt.
+
+Atmosphare
+
+
+Diese Ansicht aus der Umlaufbahn zeigt den Vollmond, der von der Erdatmosphare teilweise verdunkelt wird. NASA-Bild.
+> Hauptartikel: Erdatmosphare
+Der Ubergang zwischen Erdatmosphare und Weltraum ist kontinuierlich und man kann daher keine scharfe Obergrenze ziehen. Die Masse betragt 5,13 x 1018 kg und macht somit knapp ein Millionstel der Erdmasse aus. Der mittlere Luftdruck auf dem Niveau des Meeresspiegels betragt unter Standardbedingungen 1013,25 hPa. In den bodennahen Schichten besteht die Lufthulle im Wesentlichen aus 78 Vol.-% Stickstoff, 21 Vol.-% Sauerstoff und 1 Vol.-% Edelgasen, uberwiegend Argon. Dazu kommt ein Anteil von 0,4 Vol.-% Wasserdampf in der gesamten Erdatmosphare. Der fur den Treibhauseffekt wichtige Anteil an Kohlendioxid steigt zurzeit durch menschlichen Einfluss und liegt jetzt bei etwa 0,04 Vol.-% [7].
+
+Die auf der Erde meteorologisch gemessenen Temperaturextreme betragen ?89,2 °C (gemessen am 21. Juli 1983 in der Wostok-Station in der Antarktis auf 3420 Metern Hohe und 56,7 °C, gemessen am 10. Juli 1913 im Death Valley auf 54 m unter dem Meeresspiegel)[8]. Die mittlere Temperatur in Bodennahe betragt 15 °C. Die Schallgeschwindigkeit bei dieser Temperatur betragt in der Luft auf Meeresniveau etwa 340 m/s.
+
+Die Erdatmosphare streut den kurzwelligen, blauen Spektralanteil des Sonnenlichts etwa funfmal starker als den langwelligen, roten und bedingt dadurch bei hohem Sonnenstand die Blaufarbung des Himmels. Dass die Oberflache der Meere und Ozeane vom Weltall aus gesehen blau erscheinen, weswegen die Erde seit dem Beginn der Raumfahrt auch der „Blaue Planet“ genannt wird, ist jedoch auf die starkere Absorption roten Lichtes im Wasser selbst zuruckzufuhren. Die Spiegelung des blauen Himmels an der Wasseroberflache ist dabei nur von nebensachlicher Bedeutung.
+
+Klima
+Klimazonen
+Die Erde wird anhand unterschiedlich intensiver Sonneneinstrahlung in Klimazonen eingeteilt, die sich vom Nordpol zum Aquator erstrecken – und auf der Sudhalbkugel spiegelbildlich verlaufen.
+
+Klimazone	ungefahre Breitengrade Nord/Sud	ungefahre Durchschnittstemperatur
+Polarzone/Kalte Zone	Nord-/Sudpol bis 66,56° (Polarkreise)	0 °C
+Gema?igte Zone	66,56° bis 40°	8 °C
+Subtropen	40° bis 23,5° (Wendekreise)	16 °C
+Tropen	23,5° bis Aquator	24 °C
+Die jahreszeitlichen Temperaturschwankungen sind umso starker, je weiter die Klimazone vom Aquator und vom nachsten Ozean entfernt liegt.
+
+Polarzone
+Unter den Polargebieten versteht man zum einen die Region innerhalb des nordlichen Polarkreises, die Arktis, sowie die Region innerhalb des sudlichen Polarkreises, die Antarktis, die den gro?ten Teil des Kontinents Antarktika enthalt.
+
+Besonderes Kennzeichen der Polarregionen ist neben dem kalten Klima mit viel Schnee und Eis der bis zu einem halben Jahr dauernde Polartag mit der Mitternachtssonne bzw. die Polarnacht, aber auch die Polarlichter.
+
+Gema?igte Zone
+
+
+Klimagurtel der Erde
+Die gema?igte Klimazone erstreckt sich vom Polarkreis bis zum vierzigsten Breitengrad und wird in eine kalt-, kuhl- und warmgema?igte Zone eingeteilt.
+
+Diese Zone weist einen gro?en Unterschied zwischen den Jahreszeiten auf, der in Richtung des Aquators jedoch etwas abnimmt.
+
+Ein weiteres Merkmal sind die Unterschiede zwischen Tag und Nacht, die je nach Jahreszeit stark variieren. Diese Unterschiede nehmen, je naher man dem Pol kommt, immer mehr zu.
+
+Die Vegetation wird durch Nadel-, Misch- und Laubwalder gepragt, wobei die Nadelwalder in Richtung Aquator immer weniger werden.
+
+Subtropen
+Die Subtropen liegen in der geografischen Breite zwischen den Tropen in Aquatorrichtung und den gema?igten Zonen in Richtung der Pole, ungefahr zwischen 25° und 40° nordlicher beziehungsweise sudlicher Breite. Diese Gebiete haben typischerweise tropische Sommer und nicht-tropische Winter. Man kann sie unterteilen in trockene, winterfeuchte, sommerfeuchte und immerfeuchte Subtropen.
+
+Eine weitverbreitete Definition definiert das Klima dort als subtropisch, wo die Mitteltemperatur im Jahr uber 20 Grad Celsius liegt, die Mitteltemperatur des kaltesten Monats jedoch unter der Marke von 20 Grad bleibt.
+
+Die Unterschiede zwischen Tag und Nacht fallen relativ gering aus.
+
+Die Vegetation reicht von der Artenvielfalt, wie sie zum Beispiel im Mittelmeer auftritt, uber die Vegetation der trockenen Savanne bis hin zur kargen oder auch vollig fehlenden Vegetation in Wusten wie der Sahara.
+
+Tropen
+Die Tropen befinden sich zwischen dem nordlichen und sudlichen Wendekreis. Die Tropen konnen in die wechselfeuchten und immerfeuchten Tropen unterschieden werden.
+
+In den Tropen sind Tag und Nacht immer ungefahr gleich lang (zwischen 10,5 und 13,5 Stunden). Klimatische Jahreszeiten gibt es nur in den wechselfeuchten Tropen und lassen sich lediglich in Trocken- und Regenzeit unterscheiden.
+
+Typisch fur die wechselfeuchten Tropen sind die Feuchtsavannen, die sich nordlich und sudlich der gro?en Regenwalder befinden. Sie zeichnen sich durch ihre weiten Graslander aus. Beispiele sind die afrikanische Savanne und der Pantanal in Sudbrasilien und Paraguay.
+
+Fur die immerfeuchten Tropen, die sich rund um den Aquator befinden, sind die gro?en, sehr artenreichen Regenwalder, wie zum Beispiel diejenigen der Amazonasregion, typisch.
+
+Jahreszeiten
+
+
+Die Neigung der Erdachse
+Die Jahreszeiten werden in erster Linie von der Einstrahlung der Sonne verursacht und konnen infolgedessen durch Temperatur- und/oder Niederschlagsmengenschwankungen gepragt sein. In der gema?igten Zone wird darunter gewohnlich der Wechsel der Tageshochst- bzw. Tagestiefsttemperaturen verstanden. In subtropischen (und noch ausgepragter in tropischen) Regionen wird dieses Temperaturregime starker durch Schwankungen der Monatsmittel des Niederschlags uberlagert und in seiner Wahrnehmbarkeit beeinflusst.
+
+Die Unterschiede entstehen durch die Neigung des Aquators gegen die Ekliptik. Dies hat zur Folge, dass der Zenitstand der Sonne zwischen dem nordlichen und sudlichen Wendekreis hin- und herwandert (daher auch der Name Wendekreis). Dadurch entstehen neben den unterschiedlichen Einstrahlungen auch die unterschiedlichen Tag- und Nachtlangen, die mit zunehmender Polnahe immer ausgepragter werden.
+
+Die Wanderung erfolgt im Jahresrhythmus wie folgt:
+
+21. Dezember (Wintersonnenwende): Die Sonne steht uber dem sudlichen Wendekreis (Wendekreis des Steinbocks). Auf der Nordhalbkugel ist nun der kurzeste und auf der Sudhalbkugel der langste Tag des Jahres. Der astronomische Winter beginnt. Durch die nun geringe Einstrahlung der Sonne auf die Nordhalbkugel erreicht die mittlere (Tages- bzw. Monats-)Temperatur dort mit einiger Verzogerung ihren Tiefpunkt. Am Nordpol ist die Mitte der Polarnacht und am Sudpol die Mitte des Polartags.
+19. bis 21. Marz: Tagundnachtgleiche: astronomischer Fruhlingsbeginn im Norden und astronomischer Herbstbeginn im Suden. Die Sonne ist auf Hohe des Aquators.
+21. Juni (Sommersonnenwende): Die Sonne steht uber dem nordlichen Wendekreis (Wendekreis des Krebses). Langster Tag im Norden und kurzester Tag im Suden. Auf der Nordhalbkugel beginnt nun der astronomische Sommer und auf der Sudhalbkugel der astronomische Winter. Durch die hohere Einstrahlung der Sonne auf die Nordhalbkugel erreicht die mittlere Tages- bzw. Monatstemperatur dort mit einiger Verzogerung ihren Hochstpunkt. Am Nordpol ist die Mitte des Polartags und am Sudpol die Mitte der Polarnacht.
+22. oder 23. September: Tagundnachtgleiche: Im Norden beginnt astronomisch der Herbst, im Suden der Fruhling. Die Sonne ist erneut auf Hohe des Aquators.
+Abweichend davon wird in der Meteorologie der Beginn der Jahreszeiten jeweils auf den Monatsanfang vorverlegt (1. Dezember, 1. Marz usw.).
+
+Globaler Energiehaushalt
+Der Energiehaushalt der Erde wird im Wesentlichen durch die Einstrahlung der Sonne und die Ausstrahlung der Erdoberflache bzw. Atmosphare bestimmt, also durch den Strahlungshaushalt der Erde. Die restlichen Beitrage von zusammen etwa 0,02 % liegen deutlich unterhalb der Messungsgenauigkeit der Solarkonstanten sowie ihrer Schwankung im Lauf eines Sonnenfleckenzyklus.
+
+Etwa 0,013 % macht der durch radioaktive Zerfalle erzeugte geothermische Energiebeitrag aus, etwa 0,007 % stammen aus der menschlichen Nutzung fossiler und nuklearer Energietrager und etwa 0,002 % verursacht die Gezeitenreibung.
+
+Die geometrische Albedo der Erde betragt im Mittel 0,367, wobei ein wesentlicher Anteil auf die Wolken der Erdatmosphare zuruckzufuhren ist. Dies fuhrt zu einer globalen effektiven Temperatur von 246 K (?27 °C). Die Durchschnittstemperatur am Boden liegt jedoch durch einen starken atmospharischen Treibhauseffekt bzw. Gegenstrahlung bei etwa 288 K (15 °C), wobei die Treibhausgase Wasser und Kohlendioxid den Hauptbeitrag liefern.
+
+Siehe auch: Gleichgewichtstemperatur
+Einfluss des Menschen
+Zunachst lebten Menschen als Jager und Sammler. Mit der Neolithischen Revolution begannen im Vorderen Orient (11.), in China (8.) und im mexikanischen Tiefland (6. Jahrtausend v. Chr.) Ackerbau und Viehzucht. Die Kulturpflanzen verdrangten die naturliche Pflanzen- und Tierwelt. Im Zuge der Industrialisierung wurden weitraumige Landflachen in Industrie- und Verkehrsflachen umgewandelt.
+
+Die Wechselwirkungen zwischen Lebewesen und Klima haben heute durch den zunehmenden Einfluss des Menschen eine neue Quantitat erreicht. Wahrend im Jahr 1920 etwa 1,8 Milliarden Menschen die Erde bevolkerten, wuchs die Erdbevolkerung bis zum Jahr 2008 auf knapp 6,7 Milliarden an. In den Entwicklungslandern ist fur die absehbare Zukunft weiterhin ein starkes Bevolkerungswachstum zu erwarten, wahrend in vielen hoch entwickelten Landern die Bevolkerung stagniert oder nur sehr langsam zunimmt, deren industrieller Einfluss auf die Natur aber weiterhin wachst. Im Februar 2005 prognostizierten Experten der Vereinten Nationen bis zum Jahr 2013 einen Anstieg der Erdbevolkerung auf 7 Milliarden und auf 9,1 Milliarden bis 2050.
+
+Seit 1990 ist der 22. April als Tag der Erde der internationale Aktionstag zum Schutz der Umwelt. Das Jahr 2008 wurde von den Vereinten Nationen unter Federfuhrung der UNESCO zum Internationalen Jahr des Planeten Erde (IYPE) erklart. Diese bislang gro?te weltweite Initiative in den Geowissenschaften soll die Bedeutung und den Nutzen der modernen Geowissenschaften fur die Gesellschaft und fur eine nachhaltige Entwicklung verdeutlichen. Zahlreiche Veranstaltungen und interdisziplinare Projekte auf internationaler und nationaler Ebene erstreckten sich von 2007 bis 2009 uber einen Zeitraum von insgesamt drei Jahren.[9]
+
+
+
+Die Erdoberflache bei Tag (Fotomontage).
+
+
+Die Erdoberflache bei Nacht (Fotomontage).
+
+
+Mit Eispanzer (Fotomontage)
+
+
+Mit Eispanzer und Wolken (Fotomontage)
+Mond
+
+
+Die Erde vom Mond aus gesehen
+> Hauptartikel: Mond
+Die Erde wird von einem naturlichen Satelliten umkreist – dem Mond. Das Verhaltnis des Durchmessers des Mondes zu seinem Planeten (mittlerer Monddurchmesser (3476 km) zu mittlerem Erddurchmesser (12.742 km) ist 0,273) ist beim Erdmond deutlich gro?er, als es bei den „Monden“ der anderen Planeten der Fall ist.
+
+Die Prazessionsbewegung der Erdachse ist auch mit einer Schwankung der Achsneigung von ± 1,3° um den Mittelwert von 23,3° verbunden. Diese Schwankung wurde wesentlich gro?er ausfallen, wenn die Prazessionsperiode von etwa 26000 Jahren in Resonanz mit einer der zahlreichen periodischen Storungen stunde, welchen die Erdbahn infolge der Gravitationseinflusse der anderen Planeten unterliegt. Gegenwartig hat lediglich eine durch Jupiter und Saturn verursachte Storung mit einer Periode von 25760 Jahren einen gewissen Einfluss, ist aber zu schwach, um gro?ere Veranderungen zu bewirken. Wie Simulationsrechnungen zeigen, ware im gegenwartigen Zustand des Sonnensystems die Achsneigung der Erde instabil, wenn sie im Bereich von etwa 60° bis 90° lage; die tatsachliche Neigung von gut 23° hingegen ist weit genug von starken Resonanzen entfernt und bleibt stabil.[10]
+
+Hatte die Erde jedoch keinen Mond, so ware die Prazessionsperiode etwa dreimal so gro?, weil der Mond etwa zwei Drittel der Prazessionsgeschwindigkeit verursacht und bei seiner Abwesenheit nur das von der Sonne verursachte Drittel ubrigbliebe. Diese deutlich langere Prazessionsperiode lage in der Nahe zahlreicher Storungen, von denen die starksten mit Perioden von 68750, 73000 und 70800 Jahren erhebliche Resonanzeffekte verursachen wurden. Rechnungen zeigen, dass unter diesen Umstanden alle Achsneigungen zwischen 0° und etwa 85° instabil waren. Eine typische Schwankung von 0° bis 60° wurde dabei weniger als 2 Millionen Jahre erfordern.[10]
+
+Der gro?e Satellit verhindert diese Resonanzen und stabilisiert so mit seiner relativ gro?en Masse die Neigung der Erdachse gegen die Ekliptik und schafft durch die so von ihm bewirkte Zugelung der Jahreszeiten gunstige Bedingungen fur die Entwicklung des Lebens auf seinem Planeten.
+
+Gro?enverhaltnis zwischen Erde und Mond und ihr Abstand zueinander:
+Korrektes Gro?en- und Abstandsverhaltnis zwischen Erde und Mond.
+
+Erde	Mond
+Leben
+Die Erde ist bisher der einzige Planet, auf dem Lebensformen bzw. eine Biosphare von Menschen nachgewiesen wurden. Nach dem gegenwartigen Stand der Forschung begann das Leben auf der Erde moglicherweise innerhalb eines relativ kurzen Zeitraums, gleich nach dem Ausklingen des letzten schweren Bombardements gro?er Asteroiden, dem die Erde nach ihrer Entstehung vor etwa 4,6 Milliarden Jahren bis etwa vor 3,9 Milliarden Jahren als letzte Phase der Bildung ihres Planetensystems ausgesetzt war. Nach dieser Zeit hat sich eine stabile Erdkruste ausgebildet und so weit abgekuhlt, dass sich Wasser auf ihr sammeln konnte. Es gibt Hinweise, die allerdings nicht von allen damit befassten Wissenschaftlern anerkannt werden, dass sich Leben schon (geologisch) kurze Zeit spater entwickelte.
+
+In 3,85 Milliarden Jahre altem Sedimentgestein aus der Isua-Region im Sudwesten Gronlands wurden in den Verhaltnissen von Kohlenstoffisotopen Anomalien entdeckt, die auf biologischen Stoffwechsel hindeuten konnten; bei dem Gestein kann es sich aber auch statt um Sedimente lediglich um ein stark verandertes Ergussgestein ohne derartige Bedeutung handeln. Die altesten direkten, allerdings umstrittenen Hinweise auf Leben sind Strukturen in 3,5 Milliarden Jahre alten Gesteinen der Warrawoona-Gruppe im Nordwesten Australiens und im Barberton-Grunsteingurtel in Sudafrika, die als von Cyanobakterien verursacht gedeutet werden. Die altesten eindeutigen Lebensspuren auf der Erde sind 1,9 Milliarden Jahre alte Fossilien aus der Gunflint-Formation in Ontario, die Bakterien oder Archaeen gewesen sein konnten.
+
+Die chemische wie die biologische Evolution sind untrennbar mit der Klimageschichte verknupft. Obwohl die Strahlungsleistung der Sonne anfangs deutlich geringer als heute war (vgl. Paradoxon der schwachen jungen Sonne), gibt es Hinweise auf Leben auf der Erde, grundsatzlich vergleichbar dem heutigen, „seit es Steine gibt“.[11]
+
+Das Leben auf der Erde wird in seiner Entwicklung von den herrschenden Bedingungen gepragt und hat seinerseits Einfluss auf die Entwicklung und das Erscheinungsbild der Erde. Durch den Stoffwechsel des pflanzlichen Lebens, also durch die Photosynthese, wurde die Erdatmosphare mit molekularem Sauerstoff angereichert und bekam ihren oxidierenden Charakter. Zudem wurde die Albedo und damit die Energiebilanz durch die Pflanzendecke merklich verandert.
+
+Entstehung der Erde
+
+
+Wasser bedeckt etwa 70 % der Erdoberflache.
+Entstehung des Erdkorpers
+> Hauptartikel: Entstehung der Erde
+Wie die Sonne und ihre anderen Planeten entstand die Erde vor etwa 4,6 Milliarden Jahren aus der Verdichtung des Sonnennebels. Man nimmt heute allgemein an, dass sie wahrend der ersten 100 Millionen Jahre einem intensiven Bombardement von Asteroiden ausgesetzt war. Heute ist der Beschuss nur noch gering. Die meisten der Meteore werden von Objekten hervorgerufen, die kleiner als 1 cm sind. Im Gegensatz zum Mond sind auf der Erde fast alle Einschlagkrater durch geologische Prozesse wieder ausgeloscht worden. Durch die kinetische Energie der Impakte wahrend des schweren Bombardements und durch die Warmeproduktion des radioaktiven Zerfalls erhitzte sich die junge Erde, bis sie gro?tenteils aufgeschmolzen war. In der Folge kam es zu einer gravitativen Differenzierung des Erdkorpers in einen Erdkern und einen Erdmantel. Die schwersten Elemente, vor allem Eisen, sanken in die Richtung des Schwerpunkts des Planeten, wobei auch Warme gebildet wurde. Leichte Elemente, vor allem Sauerstoff, Silizium und Aluminium, stiegen nach oben und aus ihnen bildeten sich hauptsachlich silikatische Minerale, aus denen auch die Gesteine der Erdkruste bestehen. Aufgrund ihres vorwiegenden Aufbaus aus Eisen und Silikaten hat die Erde wie alle terrestrischen Planeten eine recht hohe mittlere Dichte von 5,515 g/cm3.
+
+Herkunft des Wassers
+> Hauptartikel: Herkunft des irdischen Wassers
+Die Herkunft des Wassers auf der Erde, insbesondere die Frage, warum auf der Erde deutlich mehr Wasser vorkommt als auf den anderen erdahnlichen Planeten, ist bis heute nicht befriedigend geklart. Ein Teil des Wassers durfte durch das Ausgasen des Magmas entstanden sein, also letztlich aus dem Erdinneren stammen. Ob dadurch aber die heutige Menge an Wasser erklart werden kann, ist fraglich. Weitere gro?e Anteile konnten aber auch durch Einschlage von Kometen, transneptunischen Objekten oder wasserreichen Asteroiden (Protoplaneten) aus den au?eren Bereichen des Asteroidengurtels auf die Erde gekommen sein. Messungen des Isotopenverhaltnisses von Deuterium zu Protium (D/H-Verhaltnis) deuten dabei eher auf Asteroiden hin, da in Wassereinschlussen in kohligen Chondriten ahnliche Verhaltnisse gefunden wurden wie in ozeanischem Wasser, wohingegen nach bisherigen Messungen dieses Isotopen-Verhaltnis von Kometen und transneptunischen Objekten nicht mit dem von irdischem Wasser ubereinstimmt.
+
+Zukunft
+
+
+Der Lebenszyklus der Sonne
+Die Zukunft der Erde ist eng an die der Sonne gebunden. Die Kernfusion vermindert im Zentrum der Sonne die Teilchenzahl (4 p + 2 e > He2+), aber kaum die Masse. Daher wird der Kern langsam schrumpfen und hei?er werden. Au?erhalb des Kerns wird sich die Sonne ausdehnen, das Material wird durchlassiger fur Strahlung, sodass die Gesamthelligkeit der Sonne etwa um 10 % uber die nachsten 1,1 Milliarden Jahre und um 40 % nach 3,5 Milliarden Jahren steigen wird.[12] Man vermutet, dass die Erde noch etwa 500 Millionen Jahre lang ahnlich wie heute bewohnbar sein wird.[13] Danach, so zeigen Klimamodelle, wird der Treibhauseffekt instabil – hohere Temperatur fuhrt zu mehr Wasserdampf in der Atmosphare, was wiederum den Treibhauseffekt verstarken wird.[14] Der warme Regen wird durch Erosion den anorganischen Kohlenstoffzyklus beschleunigen, wodurch der CO2-Gehalt der Atmosphare auf etwa 10 ppm in etwa 900 Millionen Jahren (verglichen mit 280 ppm in vorindustrieller Zeit) stark abnehmen wird, sodass mit den Pflanzen auch die Tiere verhungern werden.[15] Nach einer weiteren Milliarde Jahren wird das gesamte Oberflachenwasser verschwunden sein[16] und die globale Durchschnittstemperatur der Erde +70 °C erreichen.[15]
+
+Die Leuchtkraftzunahme der Sonne wird sich fortsetzen und sich in etwa sieben Milliarden Jahren deutlich beschleunigen. Als roter Riese wird sich die Sonne bis an die heutige Erdbahn erstrecken, sodass die Planeten Merkur und Venus absturzen und vergluhen werden. Das wird, anders als zunachst gedacht, auch der Erde passieren. Zwar wird die Sonne in diesem Riesenstadium durch starken Sonnenwind etwa 30 % ihrer Masse verlieren, sodass rechnerisch der Erdbahnradius auf 1,7 AE anwachsen wird,[12] aber die Erde wird in der nahen, sehr diffusen Sonnenoberflache eine ihr nachlaufende Gezeitenwelle hervorrufen, die an ihrer Bahnenergie zehren und so die Flucht vereiteln wird.[12][17]
+
+Siehe auch
+Erde/Daten und Zahlen
+Position der Erde im Universum
+Liste aller Lander und Staaten der Erde
+Geowissenschaften
+Envisat (ESA-Umweltsatellit)
+NASA World Wind und Google Earth (Computerprogramme)
+Flache Erde (Historie zur Vorstellung von der Erde als Scheibe oder Kugel)
+Theorie der hohlen Erde
+Hohlwelttheorie
+Literatur
+Cesare Emilliani: Planet Earth. Cosmology, Geology, and the Evolution of Live and Environment. Cambridge University Press 1992, ISBN 0-521-40949-7
+Kevin W. Kelley (Herausgeber, im Auftrag der Association of Space Explorers): Der Heimatplanet. Zweitausendeins, Frankfurt am Main, 1989. ISBN 3-86150-029-9.
+J. D. Macdougall: Eine kurze Geschichte der Erde. Econ Taschenbuchverlag 2000, ISBN 3-612-26673-X
+David Oldroyd: Die Biographie der Erde. Zweitausendeins 1998, ISBN 3-86150-285-2
+Karl-August Wirth: Erde, in: Reallexikon zur Deutschen Kunstgeschichte, 5. Bd., 1964, Sp. 997-1104
+Weblinks
+ Wiktionary: Erde – Bedeutungserklarungen, Wortherkunft, Synonyme, Ubersetzungen
+ Commons: Erde – Sammlung von Bildern, Videos und Audiodateien
+ Commons: Weltkarten – Sammlung von Bildern, Videos und Audiodateien
+ Wikiquote: Erde – Zitate
+ Wikisource: Erde – Quellen und Volltexte
+Raumfahrer.net Sonderseite: Planet Erde
+Onegeology.org: Geologische Weltkarte
+Ellipsoide, Geoide und topografische Oberflachen
+NASA Earth Observatory
+Die Zukunft der Erde und des Weltalls
+The Gateway to Astronaut Photography of Earth
+Medien
+Wie alt ist die Erde? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 4. Feb. 2001.
+Warum ist die Erde warm? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 14. Apr. 2002.
+Wie schnell entstand die Erde? aus der Fernseh-Sendereihe alpha-Centauri (ca. 15 Minuten). Erstmals ausgestrahlt am 2. Feb. 2005.

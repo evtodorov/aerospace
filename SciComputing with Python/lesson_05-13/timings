@@ -1,0 +1,12 @@
+import time
+
+startCPU = time.clock()
+startCAL = time.time()
+
+import numpy as np
+
+
+
+elapsedCPU = time.clock()-startCPU
+elapsedCAL = time.time()-startCAL
+print "

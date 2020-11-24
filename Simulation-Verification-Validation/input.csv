@@ -1,0 +1,24 @@
+# Physical input,,,
+# Symbol,Value,unit,Description
+L,70,m,
+Lf1,5,m,
+Lf2,31.2,m,
+Lf3,11,m,
+R,3.1,m,
+hf,2,m,
+dtailz,5.4,m,
+dtaily,7.5,m,
+dlgy,3,m,
+ns,36,[int],
+ts,4,mm,
+tf,2.5,cm,
+tst,1.2,mm,
+hst,1.5,cm,
+wst,2,cm,
+Sx,6.10E+05,N,
+W,2.50E+05,kg,
+gtd,29.43,m/s^2,
+# Numerical input,,,
+dz,0.1,m,Length of z-wise element
+q,99,[int],Number of intermediate booms b/n 2 stringers
+p,1000,[int],p >= 2 Number of booms representing the floor
