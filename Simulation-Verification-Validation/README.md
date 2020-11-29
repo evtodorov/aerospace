@@ -1,19 +1,19 @@
-#Introduction
+# Introduction
 This code is written as part of the SVV course in the Aerosace Engineering Programme of Delft University of Technology by group A34.
 The code calculates and visualizes stress distribution of an aft airplane fuselage subject to vertical stabilizer load (torsion and bending).
 Authorship of separate files is identified in each individual files' header. 
 
-#DEPENDENCIES:
+# DEPENDENCIES:
 
 numpy >= 1.8.1
 matplotlib >= 1.4.2. 
 
-#GETTING STARTED:
+# GETTING STARTED:
 
 To run the code with the inputs for the assignment set to the A34 group, (Boeing777), just run the main.py file in the parent folder. It will use the input from input.csv and automatically visualize partial stress distributions as well as side-by-side comparison of the von Mises stress distributions computed by the code and the von Mises stress "observed" as defined in the validation.rpt file, provided for validation purposes.
 
 
-#STRUCTURE:
+# STRUCTURE:
 
 main.py -- contains the main execution routine and the plotting routines
 
